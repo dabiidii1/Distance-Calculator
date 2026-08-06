@@ -15,7 +15,7 @@ This program calculates the distance between two points (x1, y1) and (x2, y2) on
 - x2
 - y2
 
-## output
+## sample
 Enter x1: 2
 Enter y1: 3
 Enter x2: 7
