@@ -1,10 +1,7 @@
 # Distance-Calculator
-this helps us compute the distance and coordinates 
-
-
+# this helps us compute the distance and coordinates 
 
 import math
-
 # Ask the user for the coordinates
 x1 = float(input("Enter x1: "))
 y1 = float(input("Enter y1: "))
